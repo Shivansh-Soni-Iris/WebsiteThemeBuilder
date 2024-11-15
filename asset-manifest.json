@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WebsiteThemeBuilder/static/css/main.80ef26a3.css",
-    "main.js": "/WebsiteThemeBuilder/static/js/main.4d47d2a7.js",
+    "main.js": "/WebsiteThemeBuilder/static/js/main.302ec501.js",
     "static/js/453.efc8d8c2.chunk.js": "/WebsiteThemeBuilder/static/js/453.efc8d8c2.chunk.js",
     "static/media/smoke.png": "/WebsiteThemeBuilder/static/media/smoke.96a0bc9abe519f3a4159.png",
     "static/media/wb.jpg": "/WebsiteThemeBuilder/static/media/wb.3909e6f2f33d371c230d.jpg",
@@ -9,11 +9,11 @@
     "static/media/clipboard-outline-svgrepo-com.svg": "/WebsiteThemeBuilder/static/media/clipboard-outline-svgrepo-com.db02eb174a774b0ce66db4971bdaf23d.svg",
     "index.html": "/WebsiteThemeBuilder/index.html",
     "main.80ef26a3.css.map": "/WebsiteThemeBuilder/static/css/main.80ef26a3.css.map",
-    "main.4d47d2a7.js.map": "/WebsiteThemeBuilder/static/js/main.4d47d2a7.js.map",
+    "main.302ec501.js.map": "/WebsiteThemeBuilder/static/js/main.302ec501.js.map",
     "453.efc8d8c2.chunk.js.map": "/WebsiteThemeBuilder/static/js/453.efc8d8c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80ef26a3.css",
-    "static/js/main.4d47d2a7.js"
+    "static/js/main.302ec501.js"
   ]
 }
